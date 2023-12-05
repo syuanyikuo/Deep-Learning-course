@@ -5,4 +5,8 @@
 
 |name|description|
 |----|----|
-|[DL_part8 - 優化挑戰和策略.pdf](https://syuanyikuo.github.io/Deep-Learning-course/DL_part8%20-%20%E5%84%AA%E5%8C%96%E6%8C%91%E6%88%B0%E5%92%8C%E7%AD%96%E7%95%A5.pdf)|實證風險最小化, 代理損失函數, Early Stopping, Batch and Minibatch 演算法|
+|[DL_part3 - 梯度下降.pdf](https://syuanyikuo.github.io/Deep-Learning-course/DL_part3 - 梯度下降.pdf)||
+|[DL_part4 - 正則化.pdf](https://syuanyikuo.github.io/Deep-Learning-course/DL_part4 - 正則化.pdf)||
+|[DL_part5 - 優化挑戰和策略.pdf](https://syuanyikuo.github.io/Deep-Learning-course/DL_part5 - 優化挑戰和策略.pdf)||
+|[DL_part6 - 優化算法.pdf](https://syuanyikuo.github.io/Deep-Learning-course/DL_part6 - 優化算法.pdf)||
+|[DL_part10 - RNN.pdf](https://syuanyikuo.github.io/Deep-Learning-course/DL_part10 - RNN.pdf)||
